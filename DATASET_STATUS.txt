@@ -1,0 +1,1 @@
+Included real-world image datasets: Car and Motorbike.\nBicycle images are not included yet. Add bicycle.tar.gz later to complete the 3-class project.\n

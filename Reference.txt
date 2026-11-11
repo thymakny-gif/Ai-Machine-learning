@@ -1,0 +1,5 @@
+Project: Vehicle Image Classification using CNN
+Categories: Car, Motorbike, Bicycle
+Core framework: TensorFlow / Keras
+Architecture: Convolutional Neural Network (CNN)
+See README.md for setup, dataset preparation, training, and prediction.
